@@ -26,4 +26,8 @@ proguard/
 *.iml
 *.ipr
 *.iws
+<<<<<<< HEAD
 .idea/
+=======
+.idea/
+>>>>>>> branch 'master' of ssh://git@github.com/hongdong/test.git
